@@ -7,7 +7,7 @@
 // 10, 10, 2
 
 // c. boolean
-//true OR false
+//true OR false --->status create
 
 // d. null
 // null
@@ -16,6 +16,7 @@
 // undefined
 
 // f. symbol
+
 // 2.Non-primitive OR Refrance type
 
 // a. array
@@ -32,7 +33,7 @@
 // c. functions
 // function mydecision(){}
 
-// asigning data types in a variables
+// asigning data types in variables
 
 var str ="exaltech software";
 var num = 20;
