@@ -15,3 +15,4 @@ person.age = 26;
 
  letters[0];"a"
  console.log(letters);
+    
